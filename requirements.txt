@@ -1,0 +1,7 @@
+finnhub-python
+torch
+torchvision
+torchaudio
+transformers
+scipy
+accelerate
